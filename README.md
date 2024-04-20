@@ -6,8 +6,8 @@
 
 
 ## Useful React Scripts 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- If you have cloned this repository, you should first run `npm install` or `yarn install` to install the node files
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #### `npm init react-app name-of-the-app` or `npx create-react-app name-of-the-app`
 #### `npm start`
@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### `npm run eject`
 #### `npm run build`
 
-Other packages
+Other Packages Used 
 - React Router
 For Windows: 
  ````
