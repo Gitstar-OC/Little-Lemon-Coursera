@@ -18,3 +18,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Useful Git Commands 
+
+#### Run the `git init` command to initialize the repository.
+
+#### Use the `git add command` to stage your files for commit.
+
+#### Use the `git commit` command to commit your staged changes.
+
