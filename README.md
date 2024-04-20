@@ -36,3 +36,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### Run the `git merge <branch>` to merge the branch into the branch you are in.
 
 #### Alternately you can also run `git pull` to fetch and integrate changes.
+
+
+## Useful VS Code Extensions 
+### [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+### [Emmet Keybindings](https://marketplace.visualstudio.com/items?itemName=agutierrezr.emmet-keybindings)
+### [Continue - Llama 3, GPT-4, and more](https://marketplace.visualstudio.com/items?itemName=Continue.continue) 
+### [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+### [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+
+
