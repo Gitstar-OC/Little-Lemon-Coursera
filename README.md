@@ -31,3 +31,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### Run the `git status` command, then the `git log` command to confirm that Git is tracking your project locally and that you have the correct Git user set up.
 
+#### Run the `git fetch` command to retrieve the latest changes from a remote repository.
+
+#### Run the `git merge <branch>` to merge the branch into the branch you are in.
+
+#### Alternately you can also run `git pull` to fetch and integrate changes.
