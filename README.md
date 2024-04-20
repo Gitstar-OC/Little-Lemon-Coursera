@@ -25,3 +25,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### Use the `git commit` command to commit your staged changes.
 
+#### Use the `git remote` command to add a remote for the repository on GitHub.
+
+#### Use the `git push` command to push the commits to the remote repository.
+
+#### Run the `git status` command, then the `git log` command to confirm that Git is tracking your project locally and that you have the correct Git user set up.
+
