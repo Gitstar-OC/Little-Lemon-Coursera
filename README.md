@@ -10,7 +10,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### `npm init react-app`
+#### `npm init react-app name-of-the-app` or `npx create-react-app name-of-the-app`
 #### `npm start`
 #### `npm test`
 #### `npm run eject`
