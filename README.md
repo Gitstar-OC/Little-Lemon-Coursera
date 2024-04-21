@@ -94,7 +94,7 @@ This field stands for HTTP equivalent, and it’s used to simulate HTTP response
 #### `<meta name="copyright" content="Copyright 2022">` specifies a Copyright 
 
 
-### <meta http-equiv="..."/> tags
+### meta http-equiv="..." tags
 #### `<mta http-equiv="content-type" content="text/html">` specifies the format of the document returned by the server 
 
 #### `<meta http-equiv="default-style"/>`  specifies the format of the styling document 
