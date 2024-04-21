@@ -1,4 +1,5 @@
 import React from 'react'
+import "./HighLights.css"
 
 const HighLightsAndSpecials = () => {
   return (
