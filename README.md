@@ -75,7 +75,8 @@ The charset is a special field that lets you specify the character encoding used
 - #### HTTP-equiv 
 This field stands for HTTP equivalent, and it’s used to simulate HTTP response headers. This is rare to see, and it’s recommended to use HTTP headers over HTML http-equiv meta tags. For example, the next tag would instruct the browser to refresh the page every 30 minutes: <meta http-equiv="refresh" content="30"> 
 
-### #Basic meta tags (meta tags For SEO) 
+### #Basic meta tags (meta tags For SEO)
+- Below are some basic meta tags 
   #### `<meta name="description"/>` provides a brief description of the web page 
   #### `<meta name=”title”/>` specifies the title of the web page 
   #### `<meta name="author" content="name">` specifies the author of the web page  
