@@ -126,6 +126,8 @@ This field stands for HTTP equivalent, and it’s used to simulate HTTP response
 #### `<details>` - A collapsed section of content that can be expanded if the user wishes to view it.
 #### `<summary>` - Specifies the summary or caption of a `<details>` element.
 #### `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` - Headings on the web page. `<h1>` indicates the most important heading whereas `<h6>` indicates the least important.
+
+### Content Tags
 #### `<blockquote>` - Used to describe a quotation.
 #### `<dd>` - Used to define a description for the preceding `<dt>` element.
 #### `<dl>` - Used to define a description list.
@@ -139,6 +141,8 @@ This field stands for HTTP equivalent, and it’s used to simulate HTTP response
 #### `<p>` - Defines a paragraph.
 #### `<pre>` - Used to represent preformatted text. Typically rendered in the web browser using a monospace font.
 #### `<ul>` - Unordered list.
+
+### Inline Tags
 #### `<a>` - An anchor link to another HTML document.
 #### `<abbr>` - Specifies that the containing text is an abbreviation or acronym.
 #### `<b>` - Bolds the containing text. When used to indicate importance use `<strong>` instead.
@@ -160,6 +164,8 @@ This field stands for HTTP equivalent, and it’s used to simulate HTTP response
 #### `<time>` - A semantic tag used to display both dates and times.
 #### `<u>` - Displays the containing text with a solid underline.
 #### `<var>` - The containing text is a variable in a mathematical expression.
+
+### Embedded Content and Media Tags
 #### `<audio>` - Used to embed audio in web pages.
 #### `<canvas>` - Used to render 2D and 3D graphics on web pages.
 #### `<embed>` - Used as a containing element for external content provided by an external application such as a media player or plug-in application.
