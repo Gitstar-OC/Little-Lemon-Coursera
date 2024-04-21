@@ -28,6 +28,7 @@ yarn add react-router-dom
 
 
 ## Useful Git Commands 
+- Below are some useful git commands 
 
   #### Run the `git init` command to initialize the repository.
 
