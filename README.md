@@ -109,16 +109,16 @@ This field stands for HTTP equivalent, and it’s used to simulate HTTP response
 
 ### Sectioning tags
 - Use the following tags to organize your HTML document into structured sections. 
-#### `<header>` - The header of a content section or the web page. The web page header often contains the website branding or logo.
-#### `<nav>` - The navigation links of a section or the web page.
-#### `<footer>` - The footer of a content section or the web page. On a web page, it often contains secondary links, the copyright notice, privacy policy and cookie policy links.
-#### `<main>` - Specifies the main content of a section or the web page.
-#### `<aside>` - A secondary set of content that is not required to understand the main content.
-#### `<article>` - An independent, self-contained block of content such as a blog post or product.
-#### `<section>` - A standalone section of the document that is often used within the body and article elements.
-#### `<details>` - A collapsed section of content that can be expanded if the user wishes to view it.
-#### `<summary>` - Specifies the summary or caption of a `<details>` element.
-#### `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` - Headings on the web page. `<h1>` indicates the most important heading whereas `<h6>` indicates the least important.
+  #### `<header>` - The header of a content section or the web page. The web page header often contains the website branding or logo.
+  #### `<nav>` - The navigation links of a section or the web page.
+  #### `<footer>` - The footer of a content section or the web page. On a web page, it often contains secondary links, the copyright notice, privacy policy and cookie policy links.
+  #### `<main>` - Specifies the main content of a section or the web page.
+  #### `<aside>` - A secondary set of content that is not required to understand the main content.
+  #### `<article>` - An independent, self-contained block of content such as a blog post or product.
+  #### `<section>` - A standalone section of the document that is often used within the body and article elements.
+  #### `<details>` - A collapsed section of content that can be expanded if the user wishes to view it.
+  #### `<summary>` - Specifies the summary or caption of a `<details>` element.
+  #### `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` - Headings on the web page. `<h1>` indicates the most important heading whereas `<h6>` indicates the least important.
 
 ### Content Tags
 #### `<blockquote>` - Used to describe a quotation.
