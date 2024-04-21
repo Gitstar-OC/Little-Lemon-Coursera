@@ -166,26 +166,27 @@ This field stands for HTTP equivalent, and it’s used to simulate HTTP response
   #### `<var>` - The containing text is a variable in a mathematical expression.
 
 ### Embedded Content and Media Tags
-#### `<audio>` - Used to embed audio in web pages.
-#### `<canvas>` - Used to render 2D and 3D graphics on web pages.
-#### `<embed>` - Used as a containing element for external content provided by an external application such as a media player or plug-in application.
-#### `<iframe>` - Used to embed a nested web page.
-#### `<img>` - Embeds an image on a web page.
-#### `<object>` - Similar to `<embed>` but the content is provided by a web browser plug-in.
-#### `<picture>` - An element that contains one `<img>` element and one or more `<source>` elements to offer alternative images for different displays/devices.
-#### `<video>` - Embeds a video on a web page.
-#### `<source>` - Specifies media resources for `<picture>`, `<audio>` and `<video>` elements.
-#### `<svg>` - Used to define Scalable Vector Graphics within a web page.
-#### `<table>` - Defines a table element to display table data within a web page.
-#### `<thead>` - Represents the header content of a table. Typically contains one `<tr>` element.
-#### `<tbody>` - Represents the main content of a table. Contains one or more `<tr>` elements.
-#### `<tfoot>` - Represents the footer content of a table. Typically contains one `<tr>` element.
-#### `<tr>` - Represents a row in a table. Contains one or more `<td>` elements when used within `<tbody>` or `<tfoot>`. When used within `<thead>`, contains one or more `<th>` elements.
-#### `<td>` - Represents a cell in a table. Contains the text content of the cell.
-#### `<th>` - Defines a header cell of a table. Contains the text content of the header.
-#### `<caption>` - Defines the caption of a table element.
-#### `<colgroup>` - Defines a semantic group of one or more columns in a table for formatting.
-#### `<col>` - Defines a semantic column in a table.
+- Below is list of Semantic Content and Media Tags
+  #### `<audio>` - Used to embed audio in web pages.
+  #### `<canvas>` - Used to render 2D and 3D graphics on web pages.
+  #### `<embed>` - Used as a containing element for external content provided by an external application such as a media player or plug-in application.
+  #### `<iframe>` - Used to embed a nested web page.
+  #### `<img>` - Embeds an image on a web page.
+  #### `<object>` - Similar to `<embed>` but the content is provided by a web browser plug-in.
+  #### `<picture>` - An element that contains one `<img>` element and one or more `<source>` elements to offer alternative images for different displays/devices.
+  #### `<video>` - Embeds a video on a web page.
+  #### `<source>` - Specifies media resources for `<picture>`, `<audio>` and `<video>` elements.
+  #### `<svg>` - Used to define Scalable Vector Graphics within a web page.
+  #### `<table>` - Defines a table element to display table data within a web page.
+  #### `<thead>` - Represents the header content of a table. Typically contains one `<tr>` element.
+  #### `<tbody>` - Represents the main content of a table. Contains one or more `<tr>` elements.
+  #### `<tfoot>` - Represents the footer content of a table. Typically contains one `<tr>` element.
+  #### `<tr>` - Represents a row in a table. Contains one or more `<td>` elements when used within `<tbody>` or `<tfoot>`. When used within `<thead>`, contains one or more `<th>` elements.
+  #### `<td>` - Represents a cell in a table. Contains the text content of the cell.
+  #### `<th>` - Defines a header cell of a table. Contains the text content of the header.
+  #### `<caption>` - Defines the caption of a table element.
+  #### `<colgroup>` - Defines a semantic group of one or more columns in a table for formatting.
+  #### `<col>` - Defines a semantic column in a table.
 
 ### Open Graph Protocol (OGP)
 - You can find out more information about the OGP and about how to use the Open Graph tags from the 
