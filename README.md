@@ -29,23 +29,23 @@ yarn add react-router-dom
 
 ## Useful Git Commands 
 
- #### Run the `git init` command to initialize the repository.
+  #### Run the `git init` command to initialize the repository.
 
- #### Use the `git add command` to stage your files for commit.
+  #### Use the `git add command` to stage your files for commit.
 
- #### Use the `git commit` command to commit your staged changes.
+  #### Use the `git commit` command to commit your staged changes.
 
- #### Use the `git remote` command to add a remote for the repository on GitHub.
+  #### Use the `git remote` command to add a remote for the repository on GitHub.
 
- #### Use the `git push` command to push the commits to the remote repository.
+  #### Use the `git push` command to push the commits to the remote repository.
 
- #### Run the `git status` command, then the `git log` command to confirm that Git is tracking your project locally and that you have the correct Git user set up.
+  #### Run the `git status` command, then the `git log` command to confirm that Git is tracking your project locally and that you have the correct Git user set up.
 
- #### Run the `git fetch` command to retrieve the latest changes from a remote repository.
+  #### Run the `git fetch` command to retrieve the latest changes from a remote repository.
 
- #### Run the `git merge <branch>` to merge the branch into the branch you are in.
+  #### Run the `git merge <branch>` to merge the branch into the branch you are in.
 
- #### Alternately you can also run `git pull` to fetch and integrate changes.
+  #### Alternately you can also run `git pull` to fetch and integrate changes.
 
 
 
@@ -74,25 +74,17 @@ The charset is a special field that lets you specify the character encoding used
 This field stands for HTTP equivalent, and it’s used to simulate HTTP response headers. This is rare to see, and it’s recommended to use HTTP headers over HTML http-equiv meta tags. For example, the next tag would instruct the browser to refresh the page every 30 minutes: <meta http-equiv="refresh" content="30"> 
 
 ### #Basic meta tags (meta tags For SEO) 
-#### `<meta name="description"/>` provides a brief description of the web page 
+  #### `<meta name="description"/>` provides a brief description of the web page 
+  #### `<meta name=”title”/>` specifies the title of the web page 
+  #### `<meta name="author" content="name">` specifies the author of the web page  
+  #### `<meta name="language" content="english">` specifies the language of the web page 
+  #### `<meta name="robots" content="index,follow" />` tells search engines how to crawl or index a certain page 
+  #### `<meta name="google"/>` tells Google not to show the sitelinks search box for your page when showing search results 
+  #### `<meta name="googlebot" content=”notranslate” />` tells Google you don’t want to provide an automatic translation for your page if the user uses a different language  
+  #### `<meta name="revised" content="Sunday, July 18th, 2010, 5:15 pm" />` specifies the last modified date and time on which you have made certain changes 
+  #### `<meta name="rating" content="safe for kids">` specifies the expected audience for your page 
+  #### `<meta name="copyright" content="Copyright 2022">` specifies a Copyright 
 
-#### `<meta name=”title”/>` specifies the title of the web page 
-
-#### `<meta name="author" content="name">` specifies the author of the web page  
-
-#### `<meta name="language" content="english">` specifies the language of the web page 
-
-#### `<meta name="robots" content="index,follow" />` tells search engines how to crawl or index a certain page 
-
-#### `<meta name="google"/>` tells Google not to show the sitelinks search box for your page when showing search results 
-
-#### `<meta name="googlebot" content=”notranslate” />` tells Google you don’t want to provide an automatic translation for your page if the user uses a different language  
-
-#### `<meta name="revised" content="Sunday, July 18th, 2010, 5:15 pm" />` specifies the last modified date and time on which you have made certain changes 
-
-#### `<meta name="rating" content="safe for kids">` specifies the expected audience for your page 
-
-#### `<meta name="copyright" content="Copyright 2022">` specifies a Copyright 
 
 
 ### #meta http-equiv="..." tags
