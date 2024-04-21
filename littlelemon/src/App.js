@@ -4,14 +4,14 @@ import { About, Footer, Hero, HighLights, Navbar, Testimonials } from './compone
 
 function App() {
     return (
-        <div className='App'>
+        <>
             <Navbar />
             <Hero />
             <HighLights />
             <Testimonials />
             <About />
             <Footer />
-        </div>
+        </>
     )
 }
 
