@@ -9,11 +9,11 @@
 - If you have cloned this repository, you should first run `npm install` or `yarn install` to install the node files
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### `npm init react-app name-of-the-app` or `npx create-react-app name-of-the-app`
-#### `npm start`
-#### `npm test`
-#### `npm run eject`
-#### `npm run build`
+  #### `npm init react-app name-of-the-app` or `npx create-react-app name-of-the-app`
+  #### `npm start`
+  #### `npm test`
+  #### `npm run eject`
+  #### `npm run build`
 
 Other Packages Used 
 - React Router
@@ -29,23 +29,24 @@ yarn add react-router-dom
 
 ## Useful Git Commands 
 
-#### Run the `git init` command to initialize the repository.
+ #### Run the `git init` command to initialize the repository.
 
-#### Use the `git add command` to stage your files for commit.
+ #### Use the `git add command` to stage your files for commit.
 
-#### Use the `git commit` command to commit your staged changes.
+ #### Use the `git commit` command to commit your staged changes.
 
-#### Use the `git remote` command to add a remote for the repository on GitHub.
+ #### Use the `git remote` command to add a remote for the repository on GitHub.
 
-#### Use the `git push` command to push the commits to the remote repository.
+ #### Use the `git push` command to push the commits to the remote repository.
 
-#### Run the `git status` command, then the `git log` command to confirm that Git is tracking your project locally and that you have the correct Git user set up.
+ #### Run the `git status` command, then the `git log` command to confirm that Git is tracking your project locally and that you have the correct Git user set up.
 
-#### Run the `git fetch` command to retrieve the latest changes from a remote repository.
+ #### Run the `git fetch` command to retrieve the latest changes from a remote repository.
 
-#### Run the `git merge <branch>` to merge the branch into the branch you are in.
+ #### Run the `git merge <branch>` to merge the branch into the branch you are in.
 
-#### Alternately you can also run `git pull` to fetch and integrate changes.
+ #### Alternately you can also run `git pull` to fetch and integrate changes.
+
 
 
 ## Useful VS Code Extensions 
