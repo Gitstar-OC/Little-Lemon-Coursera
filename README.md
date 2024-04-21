@@ -142,27 +142,28 @@ This field stands for HTTP equivalent, and it’s used to simulate HTTP response
   #### `<ul>` - Unordered list.
 
 ### Inline Tags
-#### `<a>` - An anchor link to another HTML document.
-#### `<abbr>` - Specifies that the containing text is an abbreviation or acronym.
-#### `<b>` - Bolds the containing text. When used to indicate importance use `<strong>` instead.
-#### `<br>` - A line break. Moves the subsequent text to a new line.
-#### `<cite>` - Defines the title of creative work (for example a book, poem, song, movie, painting or sculpture). The text in the `<cite>` element is usually rendered in italics.
-#### `<code>` - Indicates that the containing text is a block of computer code.
-#### `<data>` - Indicates machine-readable data.
-#### `<em>` - Emphasizes the containing text.
-#### `<i>` - The containing text is displayed in italics. Used to indicate idiomatic text or technical terms.
-#### `<mark>` - The containing text should be marked or highlighted.
-#### `<q>` - The containing text is a short quotation.
-#### `<s>` - Displays the containing text with a strikethrough or line through it.
-#### `<samp>` - The containing text represents a sample.
-#### `<small>` - Used to represent small text, such as copyright and legal text.
-#### `<span>` - A generic element for grouping content for CSS styling.
-#### `<strong>` - Displays the containing text in bold. Used to indicate importance.
-#### `<sub>` - The containing text is subscript text, displayed with a lowered baseline.
-#### `<sup>` - The containing text is superscript text, displayed with a raised baseline.
-#### `<time>` - A semantic tag used to display both dates and times.
-#### `<u>` - Displays the containing text with a solid underline.
-#### `<var>` - The containing text is a variable in a mathematical expression.
+- Below are some Inline Semantic tags
+  #### `<a>` - An anchor link to another HTML document.
+  #### `<abbr>` - Specifies that the containing text is an abbreviation or acronym.
+  #### `<b>` - Bolds the containing text. When used to indicate importance use `<strong>` instead.
+  #### `<br>` - A line break. Moves the subsequent text to a new line.
+  #### `<cite>` - Defines the title of creative work (for example a book, poem, song, movie, painting or sculpture). The text in the `<cite>` element is usually rendered in italics.
+  #### `<code>` - Indicates that the containing text is a block of computer code.
+  #### `<data>` - Indicates machine-readable data.
+  #### `<em>` - Emphasizes the containing text.
+  #### `<i>` - The containing text is displayed in italics. Used to indicate idiomatic text or technical terms.
+  #### `<mark>` - The containing text should be marked or highlighted.
+  #### `<q>` - The containing text is a short quotation.
+  #### `<s>` - Displays the containing text with a strikethrough or line through it.
+  #### `<samp>` - The containing text represents a sample.
+  #### `<small>` - Used to represent small text, such as copyright and legal text.
+  #### `<span>` - A generic element for grouping content for CSS styling.
+  #### `<strong>` - Displays the containing text in bold. Used to indicate importance.
+  #### `<sub>` - The containing text is subscript text, displayed with a lowered baseline.
+  #### `<sup>` - The containing text is superscript text, displayed with a raised baseline.
+  #### `<time>` - A semantic tag used to display both dates and times.
+  #### `<u>` - Displays the containing text with a solid underline.
+  #### `<var>` - The containing text is a variable in a mathematical expression.
 
 ### Embedded Content and Media Tags
 #### `<audio>` - Used to embed audio in web pages.
