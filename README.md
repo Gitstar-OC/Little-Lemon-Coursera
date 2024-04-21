@@ -188,17 +188,19 @@ This field stands for HTTP equivalent, and it’s used to simulate HTTP response
 #### `<col>` - Defines a semantic column in a table.
 
 ### Open Graph Protocol (OGP)
-og:title
+- You can find out more information about the OGP and about how to use the Open Graph tags from the 
+[Open Graph Protocol](https://ogp.me)  website.
+
+#### `og:title`
 The og:title meta tag is there for you to give a title for your shared link or shared content.
 
-og:description
+#### `og:description`
 A title is usually followed by a description, which is what the og:description meta tag is for.
 
-og:image
+#### `og:image`
 The og:image meta tag specifies the image to serve when a link is shared on social media. 
 
-You can find out more information about the OGP and about how to use the Open Graph tags from the 
-[Open Graph Protocol](https://ogp.me)  website.
+
 
 
 ## HAPPY CODING! 🙂 [MUST FOLLOW CODE OF CONDUCT](https://github.com/Gitstar-Om/Little-Lemon-Coursera?tab=coc-ov-file)
