@@ -57,3 +57,4 @@ yarn add react-router-dom
 ### [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 
 
+## HAPPY CODING! 🙂 [MUST FOLLOW CODE OF CONDUCT](https://github.com/Gitstar-Om/Little-Lemon-Coursera?tab=coc-ov-file)
