@@ -126,19 +126,20 @@ This field stands for HTTP equivalent, and it’s used to simulate HTTP response
   #### `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>` - Headings on the web page. `<h1>` indicates the most important heading whereas `<h6>` indicates the least important.
 
 ### Content Tags
-#### `<blockquote>` - Used to describe a quotation.
-#### `<dd>` - Used to define a description for the preceding `<dt>` element.
-#### `<dl>` - Used to define a description list.
-#### `<dt>` - Used to describe terms inside `<dl>` elements.
-#### `<figcaption>` - Defines a caption for a photo image.
-#### `<figure>` - Applies markup to a photo image.
-#### `<hr>` - Adds a horizontal line to the parent element.
-#### `<li>` - Used to define an item within a list.
-#### `<menu>` - A semantic alternative to `<ul>` tag.
-#### `<ol>` - Defines an ordered list.
-#### `<p>` - Defines a paragraph.
-#### `<pre>` - Used to represent preformatted text. Typically rendered in the web browser using a monospace font.
-#### `<ul>` - Unordered list.
+- Below are the tags used for Content 
+  #### `<blockquote>` - Used to describe a quotation.
+  #### `<dd>` - Used to define a description for the preceding `<dt>` element.
+  #### `<dl>` - Used to define a description list.
+  #### `<dt>` - Used to describe terms inside `<dl>` elements.
+  #### `<figcaption>` - Defines a caption for a photo image.
+  #### `<figure>` - Applies markup to a photo image.
+  #### `<hr>` - Adds a horizontal line to the parent element.
+  #### `<li>` - Used to define an item within a list.
+  #### `<menu>` - A semantic alternative to `<ul>` tag.
+  #### `<ol>` - Defines an ordered list.
+  #### `<p>` - Defines a paragraph.
+  #### `<pre>` - Used to represent preformatted text. Typically rendered in the web browser using a monospace font.
+  #### `<ul>` - Unordered list.
 
 ### Inline Tags
 #### `<a>` - An anchor link to another HTML document.
