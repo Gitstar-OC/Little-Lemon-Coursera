@@ -1,12 +1,12 @@
 import React from 'react'
 import "./Navbar.css"
-import littlelemon2 from '../../Assets/littlelemon2.png'
+import image from '../../Assets/littlelemon2.png'
 
 
 const Navbar = () => {
   return (
     <nav>
-      <img src={littlelemon2} alt="little lemon" />
+       <img style={{width: '233px', height: '79px'}} src={image} />
     </nav>
   )
 }
