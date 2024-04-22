@@ -3,8 +3,8 @@ import "./Navbar.css"
 import image from '../../Assets/littlelemon2.png'
 import { Routes, Route, Link } from'react-router-dom'
 
-import {About} from "./components"
-import { Home, LogIn, OrderOnline, Menu, Reservations } from './container';
+import {About} from "../index"
+import { Home, LogIn, OrderOnline, Menu, Reservations } from '../../container/index';
 
 
 
