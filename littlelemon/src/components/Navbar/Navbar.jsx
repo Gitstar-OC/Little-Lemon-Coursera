@@ -2,8 +2,7 @@ import React from 'react';
 import "./Navbar.css";
 import image from '../../Assets/littlelemon2.png';
 import { Routes, Route, Link } from 'react-router-dom';
-import { About } from "../index";
-import { LogIn, OrderOnline, Menu, Reservations, Home  } from '../../container/index';
+import { About, LogIn, OrderOnline, Menu, Reservations, Home  } from '../../container/index';
 // import App from "../../App";
 
 
