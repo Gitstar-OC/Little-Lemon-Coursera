@@ -4,7 +4,8 @@ import image from '../../Assets/littlelemon2.png'
 import { Routes, Route, Link } from'react-router-dom'
 
 import {About} from "../index"
-import { Home, LogIn, OrderOnline, Menu, Reservations } from '../../container/index';
+import { LogIn, OrderOnline, Menu, Reservations } from '../../container/index';
+import  App  from "../../App"
 
 
 
@@ -14,7 +15,7 @@ const Navbar = () => {
     <nav>
        <img style={{width: '233px', height: '79px'}} src={image} />
        <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<App />} />
           <Route path="/about" element={<About />} />
           <Route path="/menu" element={<Menu />} />
           <Route path="/reservations" element={<Reservations />} />
@@ -27,7 +28,6 @@ const Navbar = () => {
         <Link to="/reservations" className="nav-item">Reservations</Link>
         <Link to="/orderOnline" className="nav-item">Order Online</Link>
         <Link to="/log-in" className="nav-item">Log In</Link>
-
     </nav>
   )
 }
