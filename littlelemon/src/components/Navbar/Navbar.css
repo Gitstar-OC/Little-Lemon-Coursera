@@ -6,3 +6,8 @@
     text-transform: capitalize;
     word-wrap: break-word
 }
+
+img {
+    width: 233px;
+    height: 79px;
+}

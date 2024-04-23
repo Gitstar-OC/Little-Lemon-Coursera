@@ -1,6 +1,6 @@
 // import './App.css';
- import React from 'react'
-// import { Footer, Hero, HighLights, Navbar, Testimonials /* , About */} from './components';
+import React from 'react'
+import { /* Footer, Hero, HighLights, , About ,, Testimonials */ Navbar} from './components';
 // // import { BrowserRouter as Router, useRoutes } from 'react-router-dom';
 // // import { LogIn, OrderOnline, Menu, Reservations } from './container/index';
 
@@ -17,8 +17,8 @@
   return (
       <>
       <h1>Hello World</h1>
-      {/* <Navbar />
-      <Hero />
+      <Navbar />
+       {/* <Hero />
       <HighLights />
       <Testimonials />
       <Footer /> */}

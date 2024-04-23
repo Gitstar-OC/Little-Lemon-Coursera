@@ -1,16 +1,16 @@
 import React from 'react';
 import "./Navbar.css";
 import image from '../../Assets/littlelemon2.png';
-import { Routes, Route, Link } from 'react-router-dom';
-import { About } from "../index";
-import { LogIn, OrderOnline, Menu, Reservations } from '../../container/index';
-import App from "../../App";
+// import { Routes, Route, Link } from 'react-router-dom';
+// import { About } from "../index";
+// import { LogIn, OrderOnline, Menu, Reservations } from '../../container/index';
+// import App from "../../App";
 
 const Navbar = () => {
   return (
     <nav>
-      <img style={{width: '233px', height: '79px'}} src={image} alt="Logo of little lemon" />
-      <Routes>
+      <img src={image} alt="Logo of little lemon" />
+      {/* <Routes>
         <Route path="/" element={<App />} />
         <Route path="/about" element={<About />} />
         <Route path="/menu" element={<Menu />} />
@@ -23,7 +23,7 @@ const Navbar = () => {
       <Link to="/menu" className="nav-item">Menu</Link>
       <Link to="/reservations" className="nav-item">Reservations</Link>
       <Link to="/orderOnline" className="nav-item">Order Online</Link>
-      <Link to="/log-in" className="nav-item">Log In</Link>
+      <Link to="/log-in" className="nav-item">Log In</Link> */}
     </nav>  
   )
 }
