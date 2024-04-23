@@ -1,29 +1,30 @@
-import './App.css';
-import React from 'react'
-import { Footer, Hero, HighLights, Navbar, Testimonials /* , About */} from './components';
-// import { BrowserRouter as Router, useRoutes } from 'react-router-dom';
-// import { LogIn, OrderOnline, Menu, Reservations } from './container/index';
+// import './App.css';
+ import React from 'react'
+// import { Footer, Hero, HighLights, Navbar, Testimonials /* , About */} from './components';
+// // import { BrowserRouter as Router, useRoutes } from 'react-router-dom';
+// // import { LogIn, OrderOnline, Menu, Reservations } from './container/index';
 
-// function AppRoutes() {
-//   let routes = useRoutes([
-//     { path: "/home", element: <Home /> },
-//     { path: "/login", element: <LogIn /> },
+// // function AppRoutes() {
+// //   let routes = useRoutes([
+// //     { path: "/home", element: <Home /> },
+// //     { path: "/login", element: <LogIn /> },
 
-//   ]);
-//   return <>{routes}</>;
-// }
+// //   ]);
+// //   return <>{routes}</>;
+// // }
 
-function App() {
+ function App() {
   return (
       <>
-      <Navbar />
+      <h1>Hello World</h1>
+      {/* <Navbar />
       <Hero />
       <HighLights />
       <Testimonials />
-      <Footer />
+      <Footer /> */}
       </>
   );
 }
 
 
-export default App;
+ export default App;
