@@ -16,7 +16,6 @@ import { /* Footer, Hero, HighLights, , About ,, Testimonials */ Navbar} from '.
  function App() {
   return (
       <>
-      <h1>Hello World</h1>
       <Navbar />
        {/* <Hero />
       <HighLights />
