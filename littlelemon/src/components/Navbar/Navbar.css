@@ -1,0 +1,8 @@
+.nav-item {
+    color: rgba(0, 0, 0, 0.20);
+    font-size: 20px;
+    font-family: Karla;
+    font-weight: 500;
+    text-transform: capitalize;
+    word-wrap: break-word
+}
