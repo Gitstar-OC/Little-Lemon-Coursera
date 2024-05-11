@@ -103,7 +103,7 @@ main > section {
   transition: background, border, color 0.5s;
 }
 
-.button-primary:hover, 
+.button-primary:hover,
 .button-primary:focus {
   background-color: #495E57;
   border-color: #495E57;

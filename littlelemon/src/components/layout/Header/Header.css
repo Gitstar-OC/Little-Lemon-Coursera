@@ -58,8 +58,9 @@
 
   .current-location,
   .nav-bar-links a:hover,
-  .nav-bar-links a:focus {
-    background-color: #F4CE14;
+  .nav-bar-links a:focus { 
+    text-decoration: underline 5px solid #F4CE14;
+    font-size: larger;
   }
 
   @media only screen and (max-width: 992px) {
